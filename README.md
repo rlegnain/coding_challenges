@@ -4,7 +4,7 @@ This repository provides solutions for most of coding challenges you may be aske
 
 ### Challenge 1: **Run Length Encoding**
 
-### Challenge 2: <TBD>
+### Challenge 2: **plusMinus Zero**
 
 ### Challenge 3: <TBD>
 
