@@ -6,7 +6,7 @@ This repository provides solutions for most of coding challenges you may be aske
 
 ### Challenge 2: **plusMinus Zero**
 
-### Challenge 3: <TBD>
+### Challenge 3: **Minimum Addition**
 
 ### Challenge 4: <TBD>
 
